@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @FendtheWolfie
 - 👀 I’m interested in Technology and Cycling
 - 🌱 I’m currently a student
-
-- 📫 Reach out over discord
-- 😄 Pronouns: He him
+- 📫 Reach out over discord or telegram
 - ⚡ Fun fact: I love cables :D
 
 <!---
